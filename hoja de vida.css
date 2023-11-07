@@ -1,0 +1,48 @@
+body{
+    border: solid 2px black;
+    background-color: coral;
+}
+h1{
+    font-size: 30px;
+    font-family: arial;
+    text-align: center;
+    color: chartreuse;
+    border-bottom: solid 2px chartreuse;
+}
+h2{
+    font-family: arial;
+    text-align: center;
+    color: chartreuse;
+    border-bottom: solid 2px chartreuse;
+}
+#datos{
+    border: dashed 3px black;
+    border-left: 3px dashed chartreuse;
+    font-size: 15px;
+    font-family: arial;
+    text-align: left;
+}
+#perfil{
+    border: 3px dashed black;
+    border-left: 3px dashed chartreuse;
+    font-size: 15px;
+    font-family: arial;
+    text-align: left;
+}
+#academica{
+    font-size: 15px;
+    border-left: 4px dashed black;
+    border-right: 4px dashed black;
+    font-family: arial;
+    text-align: left;
+}
+#exp{
+    font-size: 15px;
+    border-left: 4px dashed black;
+    border-right: 4px dashed black;
+    font-family: arial;
+    text-align: left;
+}
+div{
+    text-align: center;
+}
