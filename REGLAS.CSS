@@ -1,0 +1,41 @@
+body{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    
+}
+h1{
+    text-align: center;
+    color: darkred;
+
+}
+h2.tit1{
+    text-align: center;
+    color: chartreuse;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2.tit2{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+ul.lista{
+    color: darkgreen;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+p.clase1{
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul.clase2{
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p.clase3{
+    color: darkgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p.clase4{
+    color: dodgerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
